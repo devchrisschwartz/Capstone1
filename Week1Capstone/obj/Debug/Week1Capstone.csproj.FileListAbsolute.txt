@@ -1,0 +1,7 @@
+D:\Programming\Grand Circus Bootcamp\Week1Capstone\Week1Capstone\bin\Debug\Week1Capstone.exe.config
+D:\Programming\Grand Circus Bootcamp\Week1Capstone\Week1Capstone\bin\Debug\Week1Capstone.exe
+D:\Programming\Grand Circus Bootcamp\Week1Capstone\Week1Capstone\bin\Debug\Week1Capstone.pdb
+D:\Programming\Grand Circus Bootcamp\Week1Capstone\Week1Capstone\obj\Debug\Week1Capstone.csprojAssemblyReference.cache
+D:\Programming\Grand Circus Bootcamp\Week1Capstone\Week1Capstone\obj\Debug\Week1Capstone.csproj.CoreCompileInputs.cache
+D:\Programming\Grand Circus Bootcamp\Week1Capstone\Week1Capstone\obj\Debug\Week1Capstone.exe
+D:\Programming\Grand Circus Bootcamp\Week1Capstone\Week1Capstone\obj\Debug\Week1Capstone.pdb
